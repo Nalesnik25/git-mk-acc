@@ -1,1 +1,1 @@
-# git-mk-acc
+zse zadanie
